@@ -1,0 +1,6 @@
+@PACKAGE_INIT@
+
+if(NOT TARGET Awesome::Awesome)
+    include(${CMAKE_CURRENT_LIST_DIR}/AwesomeTargets.cmake)
+    check_required_components(Awesome)
+endif()

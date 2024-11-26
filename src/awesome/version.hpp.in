@@ -1,0 +1,4 @@
+#define AW_VERSION_MAJOR @Awesome_VERSION_MAJOR@
+#define AW_VERSION_MINOR @Awesome_VERSION_MINOR@
+#define AW_VERSION_PATCH @Awesome_VERSION_PATCH@
+#define AW_VERSION_STR "@Awesome_VERSION@"

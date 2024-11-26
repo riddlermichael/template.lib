@@ -1,1 +1,1 @@
-# template.lib
+# Template repo for C++ libraries
